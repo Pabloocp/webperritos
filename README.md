@@ -53,3 +53,11 @@ class ladra {
 -----
 
 <img width='150px' src="https://www.terra.com.mx/u/fotografias/m/2021/6/12/f638x638-20888_79055_5050.jpg">
+
+
+![alt][banner]
+
+
+[banner]:banner.svg
+
+
