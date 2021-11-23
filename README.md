@@ -1,1 +1,2 @@
-*Pagina web Perritos*
+# Pagina web Perritos
+## Introducción
